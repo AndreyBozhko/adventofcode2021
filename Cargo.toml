@@ -1,0 +1,12 @@
+[package]
+name = "adventofcode"
+version = "0.1.0"
+authors = ["Andrey Bozhko <andybozhko@gmail.com>"]
+rust-version = "1.57"
+edition = "2021"
+
+
+[dependencies]
+itertools = "0.10.3"
+lazy_static = "1.4.0"
+ureq = "2.3.1"
